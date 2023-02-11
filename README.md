@@ -6,7 +6,7 @@
 
 ### Technologies 
 - Spring MVC
-- Spring Security
+- Spring Securitygit
 - Spring Data JPA
 - Maven
 - JSP
